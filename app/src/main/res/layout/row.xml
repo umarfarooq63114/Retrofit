@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/tvName"
+        android:layout_height="wrap_content"
+        android:text="Ali"
+        android:layout_margin="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/tvStatus"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Tech"
+        />
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:id="@+id/tvNo"
+        android:layout_height="wrap_content"
+        android:text="0310"
+        />
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:id="@+id/tvCnic"
+        android:layout_height="wrap_content"
+        android:text="34566"
+        />
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:id="@+id/tvAdd"
+        android:layout_height="wrap_content"
+        android:text="lahore"
+        />
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:id="@+id/tvRating"
+        android:layout_height="wrap_content"
+        android:text="3.1"
+        />
+</LinearLayout>
